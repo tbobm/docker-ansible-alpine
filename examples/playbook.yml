@@ -1,0 +1,4 @@
+---
+- hosts: testhost
+  roles:
+    - marcinpraczko.hello_world
